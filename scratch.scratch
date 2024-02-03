@@ -1,0 +1,7 @@
+Express App setup
+
+1) Run your server on npm run dev: O 
+2) Go to localhost:4000 and make sure you see hellow world: O 
+3) go to locahost:4000/projects and make sure you see your projects as JSON: O 
+4) go to localhost:4000/about and make sure you see your about as JSON: O 
+5) Backend is complete, now to deploy

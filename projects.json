@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Learn about a Country",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Record your records",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
