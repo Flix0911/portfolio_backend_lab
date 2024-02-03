@@ -1,14 +1,14 @@
 [
     {
       "name": "Learn about a Country",
-      "live": "https://app.herokuapp.com/whatever",
+      "live": "https://lets-learn-about-countries-together.vercel.app/",
       "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://i.imgur.com/3w9Szpi.jpg"
     },
     {
       "name": "Record your records",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://ev-seal-project2.onrender.com/",
+      "git": "https://github.com/Flix0911/project2",
+      "image": "https://i.imgur.com/rx3TkF8.jpg"
     }
   ]
